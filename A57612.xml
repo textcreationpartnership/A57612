@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome's downfal wherein is shewed that the beginnings thereof call for praise and thanksgiving.</title>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57612</idno><idno type="EEBO-CITATION">10763290</idno>
+  <idno type="VID">45722</idno>
+  <idno type="EEBO-PROQUEST">2248511182</idno>
+  
+            <idno type="STC">Wing R1898</idno>
+            <idno type="STC">ESTC R28812</idno>
+            <idno type="OCLC">10763290</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45722)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1410:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rome's downfal wherein is shewed that the beginnings thereof call for praise and thanksgiving.</title>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Revelation --  Sermons.</term>
+               <term type="topical_term">Judgment Day.</term>
+               <term type="topical_term">Antichrist.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45722:1"/>
+            <pb facs="tcp:45722:1"/>
+            <p>ROME'S Downfal; Wherein is shewed That the Beginnings thereof call for Praise and Thanksgiving.</p>
+            <q>
+               <bibl>
+                  <hi>Apoc. 6.9, 10.</hi>
+               </bibl> And when he had opened the fifth Seal, I saw under the Altar the Souls of them that were slain for the Word of God, and for the Testimony which they held, and they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the Earth?</q>
+            <q>
+               <bibl>
+                  <hi>Apoc. 17.16, 17.</hi>
+               </bibl> And the ten horns which thou sawest upon the beast, these shall hate the Whore, and shall make her desolate, and nak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and shall eat her flesh, and burn her with Fire. For God hath put in their heart to fulfil his will, <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <l>Roma diu titubans, variis erroribus acta,</l>
+               <l>Corruet, &amp; mundi desinet esse caput.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapside</hi> near <hi>Mercers Chapel</hi> 168<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45722:2"/>
+            <pb n="1" facs="tcp:45722:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>Apoc. 14.8.</hi>
+               </bibl>
+               <q>There followed another Angel, saying; <hi>Babylon</hi> is fallen, is fallen, that great City, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>IT is a Minister's Duty to follow God in his Providences; when he gave Com<g ref="char:EOLhyphen"/>mission to the <hi>Sword</hi> the other Day to come into our Land, then to inquire and make known what are the sins, that pro<g ref="char:EOLhyphen"/>voke God so to do, viz. <hi>Idolatry, contempt of the holy Oracles of God, ill usage of the Am<g ref="char:EOLhyphen"/>bassadors of the Gospel, shedding of Innocent Blood, Perjury, Perfidiousness of great Ones, Lyes, Forgeries and Impostures,</hi> &amp;c. To press the great Doctrine of Humiliation,
+<pb n="2" facs="tcp:45722:3"/> and Repentance, and likewise to pray that the Sword may be put into its Sheath, that our Land may not become an <hi>Aceldama,</hi> a Field of Blood, and likewise to supplicate the Lord that the Fruit and Effect of these stirs and commotions that have been a<g ref="char:EOLhyphen"/>mongst us, might be the weakning and pulling down of Antichrist; 'twas <hi>David</hi>'s practice when he had directed his prayer to God, <hi>Psal.</hi> 5.3. <hi>To look up.</hi> Prayers are rich Commodities, none but Fools or Mad<g ref="char:EOLhyphen"/>men but will look after them: Oh look up, and you may behold Mercies coming in upon the wings of Prayer, the Sword be<g ref="char:EOLhyphen"/>yond expectation is already put into its Sheath, and Antichrist, who was indeavour<g ref="char:EOLhyphen"/>ing to advance himself in these Nations, is in some measure pulled down, we should therefore by way of rejoycing say, Baby<g ref="char:EOLhyphen"/>lon <hi>is fallen, is fallen.</hi> So soon as God begins such a work, we should begin to praise him.</p>
+            <p>In the beginning of this Chapter we have the Churches security against <hi>Romish</hi>
+               <pb n="3" facs="tcp:45722:3"/> Machinations, <hi>And I looked and lo, a Lamb stood on the Mount</hi> Sion, <hi>Verse</hi> 1. By <hi>Lamb</hi> we are to understand the Lord Christ Je<g ref="char:EOLhyphen"/>sus the Head of the Body, the Church, <hi>stood;</hi> time was when he had no place for the Sole of his Feet, but now God had brought him out of the horrible Pit,<note place="margin">Psal. 69.</note> and set his Feet upon firm ground, <hi>on Mount</hi> Zion, a firm and immoveable Rock, that can<g ref="char:EOLhyphen"/>not be moved, <hi>Mat.</hi> 16.18. <hi>And with him an hundred forty and four thousand.</hi> In the last verse of the fore-going Chapter, there is the number of the <hi>Beast,</hi> viz. <hi>Six hundred threescore and six,</hi> the Root of which number is Twenty five, which a Learned Writer out of History hath made it clear,<note place="margin">Mr. <hi>Potter.</hi>
+               </note> that 'tis a Character essen<g ref="char:EOLhyphen"/>tially inter-woven into the Hierarchy of <hi>Rome,</hi> there being Twenty five Gates, whether taken Literally or Mystically for Churches to Baptize in: Twenty five An<g ref="char:EOLhyphen"/>gels, <hi>i. e.</hi> Pastors: Twenty five Cardinals: Twenty five Articles of their Creed, and in many other things as he hath shewed. So the extract of the Root, a Hundred
+<pb n="4" facs="tcp:45722:4"/> forty and four being Twelve, denotes the True Church of Christ, the new <hi>Jerusa<g ref="char:EOLhyphen"/>lem,</hi> built upon the Doctrine of the Twelve Apostles, which is described in the following verses, 2, 3, 4, 5. In the 6th and 7th is shewed, that the Gospel in the latter days shall be preached with great success, for he saw an <hi>Angel flying in the midst of Heaven, having the everlasting Gos<g ref="char:EOLhyphen"/>pel to preach unto them that dwell on the Earth.</hi> Here is in the following verse made mention of more <hi>Angels, i. e.</hi> Evan<g ref="char:EOLhyphen"/>gelical Ministers, preaching the Gospel against the Beast and Beast Worship<g ref="char:EOLhyphen"/>pers.</p>
+            <note place="bottom">This <hi>Angel</hi> Learned <hi>Mede</hi> Interprets of the Council of <hi>Constantinople.</hi> In <hi>Oriente, &amp; Ecclesiis Graecis, ubi imaginum adoratio damnata est,</hi> by 338 Bishops and in <hi>Occidente (papa licet fremente)</hi> in the Council of <hi>Frankford</hi> by almost 300 Bishops. In <hi>England Wickliff</hi> wrote many Books against Popery. In <hi>Bohemia Husse, Hierom</hi> of <hi>Prague;</hi> of these do <hi>Pareus</hi> and <hi>Brightman</hi> Interpret. Others of <hi>Luther, Calvin, Viret</hi> and <hi>Peter Martyr.</hi>
+            </note>
+            <p>
+               <hi>Having the Everlasting Gospel.</hi> The Do<g ref="char:EOLhyphen"/>ctrine of Salvation by Christ; it's called <hi>Everlasting</hi> in opposition to that calumny the Papists would throw upon our Reli<g ref="char:EOLhyphen"/>gion as if new: Whereas it did flow from
+<pb n="5" facs="tcp:45722:4"/> the Eternal Counsel of God, promised from the beginning of the World,<note place="margin">
+                  <hi>Gen.</hi> 3.15.</note> made known to the Fathers and Prophets of Old; it may well be called Everlasting like<g ref="char:EOLhyphen"/>wise from the Effect, <hi>Eternal Life,</hi> or from the Duration of it, <hi>The word of the Lord shall stand for ever,</hi> Isa. 40.6.</p>
+            <p>This Angel is said <hi>to fly in the midst of Heaven, i. e.</hi> It shall be swiftly carried in<g ref="char:EOLhyphen"/>to all the Churches, and further <hi>flying</hi> im<g ref="char:EOLhyphen"/>ports that no power of man shall be able to stop the Gospel from spreading: In the following verse you have an Abridg<g ref="char:EOLhyphen"/>ment of the Everlasting Gospel, <hi>i. e.</hi> that God only is to be feared and worshipped, all glory and honour must be given to him, though none to <hi>Antichrist,</hi> none to <hi>Cardinals,</hi> none to <hi>Legates,</hi> none to <hi>Images</hi> of <hi>Angels,</hi> or <hi>Saints,</hi> none to <hi>Crosses</hi> or <hi>Crucifixes,</hi> &amp;c.</p>
+            <p>In the next verse <hi>another Angel followed, saying,</hi> Babylon <hi>is fallen,</hi> &amp;c. Here is set forth the blessed Effect of preaching
+<pb n="6" facs="tcp:45722:5"/> the Gospel, the downfal of the Romish Power.</p>
+            <p rend="indent">Observe <hi>from the Connexion,</hi> That An<g ref="char:EOLhyphen"/>tichrist's destruction will be partly by the powerful preaching of the Word. <hi>Apoc. 18.1, 2.</hi> I saw another Angel (i. e. <hi>succeeding Ministers</hi>) come down from Heaven, and the Earth was lighted with his Glory.</p>
+            <p>The Kingdom of <hi>Babylon</hi> is nothing but Spiritual darkness and confusion; her shavelings endeavour to promote Igno<g ref="char:EOLhyphen"/>rance, Lies, Errors and Superstition, but the preaching of the Word of God expels all these; hence 'tis said that Angel hath <hi>great power;</hi> indeed the Ministry of the Gospel in the judgment of the World seemeth to be weak and contemptible, but the efficacy thereof being from Heaven is strong and mighty, it is said to cast down the Pomp and Glory of <hi>Babel, Verse</hi> 2. <hi>He cryed mightily with a strong voice, saying,</hi> Ba<g ref="char:EOLhyphen"/>bylon <hi>the great is fallen, is fallen.</hi> But if it
+<pb n="7" facs="tcp:45722:5"/> be demanded how the Ministers of the Gospel (being no Prophets) can declare this for a certainty. I answer this Pro<g ref="char:EOLhyphen"/>phecy hath declared, and doth declare evi<g ref="char:EOLhyphen"/>dently that <hi>Rome</hi> shall never recover her fall, do all her Abettors what they can, but shall fall more and more, even till her final and utter destruction.</p>
+            <p>In the 2 <hi>Thes.</hi> 2. You have <hi>Antichrist (i. e.</hi> a Succession of Popes) described in his lively colours, every particular exactly verified in him; then you have in the 8th verse, the means whereby he shall be pul<g ref="char:EOLhyphen"/>led down; <hi>Whom the Lord shall consume with the Spirit of his Mouth,</hi> by the pure preach<g ref="char:EOLhyphen"/>ing of his Gospel,<note place="margin">Engl. Anno<g ref="char:EOLhyphen"/>tat.</note> whereby the Lord is powerful in the hearts of men, <hi>Isa.</hi> 11.4. <hi>Heb.</hi> 4.12. For the Ministers of the Word are as a Mouth, whereby the Lord breath<g ref="char:EOLhyphen"/>eth out that Everlasting Word which shall bruise his Enemies, and break them in sun<g ref="char:EOLhyphen"/>der like a Rod of Iron.</p>
+            <note place="bottom">So Vorst. Pisc. Bez. sermone Evangelii.</note>
+            <pb n="8" facs="tcp:45722:6"/>
+            <p>Quest. <hi>But shall</hi> Antichrist <hi>be destroyed by no other means?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> The preaching of the Gospel is the principal means to work Antichrists con<g ref="char:EOLhyphen"/>sumption in the hearts of people: Yet this is not exclusive of other means: Some learned men by Angel understand Messen<g ref="char:EOLhyphen"/>gers and Instruments raised up amongst men, whether Magistrates or Mi<g ref="char:EOLhyphen"/>nisters.<note place="margin">Vir aliquis praestans, &amp; egregius, qui subito, nic expectatus adveniet, quemadmodum res quae coelitus delabuntar.</note> Some great Instrument (saith one) that the Lord would unexpectedly raise up, which is not to be understood of any individual persons, but Instruments successively raised, which though they should be many, yet, should agree as one man to effect that a<g ref="char:EOLhyphen"/>bout which they are imployed: And this is observable, that in the pouring out of the <hi>seven Vials</hi> upon <hi>Rome.</hi>
+               <note place="margin">Apoc. 16.</note> Mystical <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> there are some that come out of the <hi>Temple</hi> amongst those Instruments.</p>
+            <p>
+               <hi>Then</hi> ought the Word of God, and Mi<g ref="char:EOLhyphen"/>nistry of the Word to be highly esteem<g ref="char:EOLhyphen"/>ed:
+<pb n="9" facs="tcp:45722:6"/> Alas! there have been endeavours of late to remove, abrogate, and disannul, not only the Laws of the Land made by wise and grave Senators, for the preservation of the True Religion, but to render the Law of our God contemptible to <hi>unlord it,</hi> Mat.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 15.6. To take away the Ruling Power of the Law by their Traditions: <hi>David</hi>'s love towards it was at such a time the more inflamed, <hi>Psal.</hi> 119.126, 127. <hi>It's time for thee, Lord, to work, for they have made void thy Law, therefore I love thy Commandments above Gold, yea above fine Gold.</hi> The more others did trample them under feet, at the higher rate did he prize them. Very memorable was that of <hi>King Edward</hi> the Sixth, when he was very young amongst his Play-fellows, being about to take down something above his reach, one of them laid him a great Bible to stand upon, but he with holy indignation refused it, and sharply rebuked the Boy for it, saying, <hi>That it was unfit to trample that under his feet, which he ought to treasure up in his head and heart.</hi> And upon the day of his Co<g ref="char:EOLhyphen"/>ronation,
+<pb n="10" facs="tcp:45722:7"/> when three Swords were pre<g ref="char:EOLhyphen"/>sented before him, signifying to him that he was <hi>Monarch</hi> of three Kingdoms, he said, <hi>There is yet one Sword wanting,</hi> and being askt what that was answered, <hi>The Holy Bible, which is the Sword of the Spirit, and is to be preferred before these Ensigns of Royal<g ref="char:EOLhyphen"/>ties.</hi>
+            </p>
+            <p>
+               <hi>Queen Elizabeth</hi> (that Miracle of her Sex) at her Coronation received the Bible presented to her with both her hands, and kissing it, laid it to her Breasts, saying, <hi>That the same had been her chiefest delight.</hi> Oh read the Holy Scriptures, let them <hi>dwell,</hi> in-dwell in you, <hi>Col.</hi> 3.16. The more you are acquainted with them, the more you will love them: Attend upon the Word preached, and pray heartily that the <hi>Word may have a free course,</hi>
+               <note place="margin">2 Thes. 3.1.</note> and that God would send <hi>faithful labourers into his Vineyard,</hi>
+               <note place="margin">Mat. 9.38.</note> that may shew forth and discover the Cheats, Frauds, and Deceits of Anti<g ref="char:EOLhyphen"/>christ at this day: The reason lyes here, because the Word hath a power and effi<g ref="char:EOLhyphen"/>cacy
+<pb n="11" facs="tcp:45722:7"/> in it thorough the operation of God's Spirit, as to pull down the strong holds of Sin and Satan, so to pull down the King<g ref="char:EOLhyphen"/>dom of Antichrist: As here, no sooner doth an Angel come with the <hi>Everlasting</hi> Gospel, but another Angel followeth him, saying, Babylon <hi>is fallen, is fallen.</hi>
+            </p>
+            <p>Babylon, <hi>i. e. The City of the Devil, which is the Ʋniversal Society of the wick<g ref="char:EOLhyphen"/>ed mis-believers, and evil livers in the World. Rhemish.</hi> In the holy Scriptures we read of two <hi>Babylons,</hi> the one in <hi>Chaldea,</hi> the other in <hi>Italy.</hi> The first built by <hi>Nimrod</hi> a hundred and thirty years after the Flood; of this City St. <hi>John</hi> doth not here speak, for this was destroyed long before his time.</p>
+            <p>By <hi>Babylon</hi> here is to be understood <hi>Rome,</hi> not only the City so called, but the Regiment, Government, and Prero<g ref="char:EOLhyphen"/>gative that is claimed by vertue of that Monarchy whereof <hi>Rome</hi> is the Head: 'Tis so called Mystically, Figuratively, by a kind of Allusion.</p>
+            <p n="1">
+               <pb n="13" facs="tcp:45722:8"/>1. For as the old <hi>Babylon</hi> did many years hold the people of God in miserable slavery, <hi>Psal.</hi> 137. <hi>By the Rivers of</hi> Baby<g ref="char:EOLhyphen"/>lon <hi>there we sat down, yea we wept, when we remembred</hi> Zion, <hi>we hanged our Harps upon the Willows in the midst thereof, there they carried us away Captive,</hi> &amp;c. So the Western <hi>Babylon</hi> hath a long time kept the Christian Church in Spiritual Thral<g ref="char:EOLhyphen"/>dom; at this day in what Slavery are the remnant of the Brethren that are left in <hi>France, Savoy,</hi> &amp;c. And what Attempts have there been to reduce us in this Nation to the same?</p>
+            <p n="2">2. That was full of Idols, <hi>Jer.</hi> 50.38. Said to be <hi>the Land of graven Images, and they are mad upon their Idols:</hi> So <hi>Rome,</hi> Apoc. 17.5. <hi>And upon her Forehead was a name written, MYSTERY</hi> BABY<g ref="char:EOLhyphen"/>LON <hi>THE GREAT, THE MO<g ref="char:EOLhyphen"/>THER OF HARLOTS, AND A<g ref="char:EOLhyphen"/>BOMINATIONS OF THE EARTH.</hi>
+            </p>
+            <p n="3">
+               <pb n="12" facs="tcp:45722:8"/>3. There was a resemblance between them in their cruelty: The latter hath in some respect exceeded the former: But to proceed to what followeth, which likewise answers to the latter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. For as <hi>Babylon</hi> of old was strong, powerful, and of great dominion, <hi>Dan.</hi> 4.30. <hi>Jer.</hi> 51.53. So Mystical <hi>Babylon</hi> is said <hi>to sit upon many waters, to rule the Kings of the Earth.</hi> And further it is said, the <hi>Merchants and great men of the Earth trade with her;</hi>
+               <note place="margin">Isa. 21.9.</note> yet fall she must. <hi>Is fallen, is fallen.</hi> What was spoken of that old City is applied to the City of <hi>Rome, i. e.</hi> 'tis as certain to fall,<note place="margin">Irrevocabili decreto ex<g ref="char:EOLhyphen"/>scindenda est. <hi>Med.</hi>
+               </note> as if already fallen. She is now fallen ini<g ref="char:EOLhyphen"/>tially, and shall fall finally and totally. It is a Note not only of Assurance, but of Rejoicing: That which offereth it self to us from hence, is this,</p>
+            <p rend="indent">
+               <pb n="14" facs="tcp:45722:9"/>That the initials and beginnings of the fall of Mystical <hi>Babylon</hi> call for Praise and Thanksgivings from the Church of Christ.</p>
+            <p>No sooner had the former Angel dis<g ref="char:EOLhyphen"/>covered the Cheats, Frauds, and Devia<g ref="char:EOLhyphen"/>tions of the <hi>Romish</hi> Church, but the next Angel cries aloud by way of rejoicing, <hi>'Tis fallen, Apoc.</hi> 11. We read that as soon as Christ did begin to <hi>take his power into his hands,</hi> which imports that he had suffered it for some time in his Enemies, that their Natures might be discovered; our Fore-fathers would not else have known the cruelty nor blood thirstiness that there was in <hi>Gardiner, Bonner,</hi> &amp;c. And we in this Age otherwise should have thought that these Vipers had lost their stings; what do the <hi>four and twenty Elders</hi> do? they <hi>worshipped God, saying, We give thee thanks, O Lord God Almighty,</hi> verse 17. So soon as Christ began to appear on his Churches behalf. In <hi>Apoc.</hi> 15. you have
+<pb n="15" facs="tcp:45722:9"/> the State of the Church, whilst the <hi>Vi<g ref="char:EOLhyphen"/>als</hi> of Gods wrath were pouring out up<g ref="char:EOLhyphen"/>on that Antichristian State, and then is shewed, that though she should stand up<g ref="char:EOLhyphen"/>on <hi>a Sea of Glass mingled with Fire,</hi> verse 2, 3. yet she should during that time have <hi>the Harps of God</hi> in her hands, and sing the <hi>Song of</hi> Moses <hi>the Servant of God, and the Song of the Lamb, saying, Great and Marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of Saints.</hi> God hath already poured out some of those Vials, and we know not but this may be more severe than the former, yet let me tell you, that all the time Christ is doing of it should be a joyful time to the Members of his Church, all those days should be days of <hi>Purim,</hi> days of Thanksgiving; they should have the Harps of God in their Hands, and Hallelujahs in their Mouths, because Christ is judging the great Whore, and avenging the Blood of his Servants at her hands.</p>
+            <pb n="16" facs="tcp:45722:10"/>
+            <p>We should not defer praises till mercies be compleat, but upon every new Deli<g ref="char:EOLhyphen"/>verance, and upon every new Judgment upon the Churches Enemies, our Mouths should be filled with new and renewed Songs of Praise and Thanksgiving to God. For,</p>
+            <p n="1">1. The Love, Care and Faithfulness of Christ is stampt upon every such Act, much more when he hath brought to nought their devices, discovered their works of darkness, and so enfeebled them, that their hands could not perform their en<g ref="char:EOLhyphen"/>terprize.</p>
+            <p n="2">2. We are a people that deserve not any Mercy or Deliverance at all; when God hath delivered us at any time, we have then lived, as if we had been delivered to work wickedness; so that he might just<g ref="char:EOLhyphen"/>ly have given us into the hands of our blood thirsty Adversaries, what we can<g ref="char:EOLhyphen"/>not deserve we must acknowledge, and
+<pb n="17" facs="tcp:45722:10"/> where merit stops thankfulness must be<g ref="char:EOLhyphen"/>gin.</p>
+            <p n="3">3. Mystical <hi>Babylon</hi> is one of the cruel<g ref="char:EOLhyphen"/>est Enemies that ever the Church of Christ had, therefore upon Christ's beginning to weaken her strength we should praise his name: <hi>Nebuchadnezzar</hi> of old, and the rest of the <hi>Assyrian Monarchs,</hi> the <hi>Roman</hi> Heathen <hi>Emperors</hi> were very severe Ene<g ref="char:EOLhyphen"/>mies to the Church of God, but all of them nothing in comparison to this De<g ref="char:EOLhyphen"/>stroyer, all their Loins lay not so heavy upon the Churches Back as the little Fin<g ref="char:EOLhyphen"/>ger of <hi>Antichrist.</hi>
+            </p>
+            <p>Whether we respect the cruelty exer<g ref="char:EOLhyphen"/>cised upon their Bodies, or the Tyranny over their Souls.</p>
+            <p n="1">(1.) The cruelty over their Bodies, for what was fore-told of her hath been veri<g ref="char:EOLhyphen"/>fied by her to a tittle, Apoc. 17.6. <hi>And I saw the woman drunken with the Blood
+<pb n="18" facs="tcp:45722:11"/> of the Saints, and with the Blood of the Martyrs of Jesus.</hi> Apoc. 18.24. <hi>In her was found the Blood of those that were slain,</hi> &amp;c. <hi>Daniel</hi> did long before tell of the fourth <hi>Beast,</hi> that he should be more fierce, than those that went before him, <hi>chap</hi> 7.7. <hi>After this I saw in the night Visions, and behold a fourth Beast, dreadful and terri<g ref="char:EOLhyphen"/>ble and strong exceedingly, and it had great iron teeth: It devoured, and brake in pieces, and stamped the residue with the feet of it, and it was diverse from all the Beasts that were before it, and it had ten Horns.</hi>
+            </p>
+            <p>What outrages and villanies did this <hi>Babylonish</hi> Beast practise against the <hi>Wal<g ref="char:EOLhyphen"/>denses,</hi> their usage of those that went in<g ref="char:EOLhyphen"/>to <hi>Piedmont; Calabria</hi> and <hi>Provence</hi> was very barbarous; neither did they deal any better with the <hi>Albingenses,</hi>
+               <note place="margin">Vid. <hi>Clarks</hi> Martyr.</note>
+               <hi>Bohemians, Germa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> &amp;c. What the <hi>Romanists</hi> did in the <hi>Marian</hi> days in our own Land, and what was designed to be done in 1588, and 1605. do plainly declare their cruelty.
+<pb n="19" facs="tcp:45722:11"/> And whereas in our days they endeavour<g ref="char:EOLhyphen"/>ed to make themselves appear white and innocent, and many began to think so of them, but if men had not been half blind, <hi>Londons Flames</hi> might have open<g ref="char:EOLhyphen"/>ed their Eyes, and shewed them that there was the same nature in them, that ever was, that those <hi>Aethiopians</hi> had not chang<g ref="char:EOLhyphen"/>ed their Skins; now this calls for praise from us, that God hath begun to bring to light those works of darkness that they have been hatching since against us, and that our Soul is escaped in some measure out of the hands of those Fowlers, and that in such a way and manner as he hath done it, with the effusion of so little Blood, at such a nick of time when near ruin, we may take up the words of the <hi>Psalmist,</hi>
+               <note place="margin">Psal. 126.</note>
+               <hi>When the Lord turned again the Captivity of</hi> Zion, <hi>we were like them that Dream; then was our mouth filled with laugh<g ref="char:EOLhyphen"/>ter, and our tongue with singing; then said they among the Heathen, The Lord hath done great things for them, the Lord hath
+<pb n="20" facs="tcp:45722:12"/> done great things for them, whereof we are glad.</hi>
+            </p>
+            <p n="4">4. The length of Mystical <hi>Babylon</hi>'s bloody Reign. She is that Enemy of the longest standing, the Jewish Church was under <hi>Egyptian</hi> Bondage two hundred years, under the <hi>Babylonish</hi> Yoak seventy years, <hi>Antiochus</hi> did sorely waste them, but 'twas but for a little Season. The <hi>Roman</hi> Hea<g ref="char:EOLhyphen"/>then Emperors afflicted the Christian Church for about three hundred years, but this Enemy hath oppressed her above a thousand years, <hi>Apoc.</hi> 11.2, 3, &amp;c. A heavy burden, the longer it hath lain up<g ref="char:EOLhyphen"/>on the Back, the more joy when taken off, if not wholly, yet in part.</p>
+            <p n="5">5. We know not what great things God hath to bring to pass by these Initials and Beginnings of Mercy towards us, how far they may extend: He hath many Promi<g ref="char:EOLhyphen"/>ses to accomplish to his Church, there are many Prophecies to be fulfilled; who
+<pb n="21" facs="tcp:45722:12"/> knows but that these present commotions may make a way to them? I am ready to believe that whosoever shall live to see the end of them, shall see that God had an hand in them to bring great things to pass. But to come to the improvement of this;</p>
+            <p>
+               <hi>Ʋse</hi> 1. Hath God on a sudden with<g ref="char:EOLhyphen"/>out Blood-shed begun to weaken the King<g ref="char:EOLhyphen"/>dom of <hi>Babel,</hi> that was advancing of her self in the midst of us? <hi>Then have wicked men little cause to insult and boast in any probable advantages that they have against the Church of Christ,</hi> God having blasted their Designs, when they have thought themselves sure.</p>
+            <p>When <hi>Pharaoh</hi> and his Host boasted and said, <hi>they will pursue, they will overtake,</hi>
+               <note place="margin">Exod. 15.</note>
+               <hi>they will divide the spoil, their lust should be sa<g ref="char:EOLhyphen"/>tisfied on them,</hi> &amp;c. God soon dasht and
+<pb n="22" facs="tcp:45722:13"/>
+               <hi>should not serve for handfuls of them, who followed him: (Ahab</hi> saith) <hi>Tell him, Let not him that putteth on his Harness boast himself,</hi>
+               <note place="margin">1 Kings 20.</note> &amp;c. God turns all about, his thirty two Kings could not help him. When some boasted the other day, that there was not enough Landed for a Break<g ref="char:EOLhyphen"/>fast for them, God soon laid their pride and hopes in the dust, that which the Prophet <hi>Nahum</hi> said of <hi>Niniveh</hi> is very ap<g ref="char:EOLhyphen"/>plicable in this case,<note place="margin">Nah. 3.</note>
+               <hi>All thy strong holds shall be like Fig-trees with the first ripe Figs; if they be shaken they shall even fall into the mouth of the eater. Behold thy people in the midst of thee are women, the gates of thy Land shall be set wide open unto thine Ene<g ref="char:EOLhyphen"/>mies.</hi> Verse 17. <hi>Thy Crowned are as the Locusts, thy Captains as the great Grashop<g ref="char:EOLhyphen"/>pers, which Camp in the Hedges in the cold day, but when the Sun ariseth they flee a<g ref="char:EOLhyphen"/>way, and their place is not known where they are.</hi>
+            </p>
+            <p>
+               <hi>Ʋse</hi> 2. Let it be a cautional advice to
+<pb n="23" facs="tcp:45722:13"/> the Churches Adversaries to beware of <hi>designing or attempting any thing against her.</hi> She is very dear to Christ, he calls her his Riches, his <hi>Inheritance,</hi> his <hi>Portion,</hi> his <hi>Jewel,</hi> and <hi>Treasure,</hi> it cost his own Blood to make her so, certainly he will then take care of her, and preserve her: He hath promised that the <hi>Gates of Hell, i. e.</hi> neither the Power or Policy of Satan, or Antichrist, or any of their Agents <hi>shall prevail against it:</hi> It is very observable that in most Ages, whosoever endeavour<g ref="char:EOLhyphen"/>ed to ruin the Church did ruin themselves; therefore as <hi>Pilate</hi>'s Wife said to her Hus<g ref="char:EOLhyphen"/>band, <hi>Have nothing to do with that just man:</hi> So I say to you, Have nothing to do by way of offence with the Church and People of God: You will but do your self a mischief by seeking others. <hi>Zach.</hi> 12.3. There God saith to his Church, <hi>That he will make it a burdensom stone,</hi> who<g ref="char:EOLhyphen"/>soever <hi>lifteth at it shall be crusht in pieces, though all the Nations of the Earth be ga<g ref="char:EOLhyphen"/>thered together against her,</hi> 'twill be to no
+<pb n="24" facs="tcp:45722:14"/> purpose; he doth not say, Whosoever <hi>lifteth it up,</hi> for that cannot be, but whosoever <hi>lifteth at it,</hi> seeketh to hurt it, shall crush themselves, their very attempt will be their destruction. This was <hi>Haman</hi>'s ruin, this was that which buried <hi>Pharaoh</hi> in the waters. <hi>Julian</hi> by attempting evil against the Church, provoked God <hi>from Heaven to strike him and slay him.</hi> He (we say) that shoots in a piece over-charged strikes down himself; not that he aimed at: So whosoever shoots at the Church, the recoil will be upon himself. King <hi>John</hi> was oft heard to complain, <hi>postquam me, &amp; mea regna Romanae subjeci Ecclesiae nulla mihi prospera, sed omnia adversa,</hi> &amp;c.</p>
+            <p>
+               <hi>Ʋse</hi> 3. Exhortation to praise the Lord, so soon as God begins to work Deliverance, we should begin to praise, let me bespeak you as God did the Jews by the Prophet, <hi>Micah</hi> 6.5. <hi>O my people, remember now what</hi> Balak <hi>King of</hi> Moab <hi>consulted, and what</hi> Balaam <hi>the Son of</hi> Beor <hi>answered him from</hi>
+               <pb n="25" facs="tcp:45722:14"/> Shittim <hi>unto</hi> Gilgal, <hi>that ye may know the righteousness of the Lord.</hi> Remember that God hath turned the Councels of all <hi>Ba<g ref="char:EOLhyphen"/>laks</hi> and <hi>Balaams</hi> into folly: O remember what hath been consulted and attempted against you, what in 1666. without doubt the <hi>Romanists</hi> would have rejoiced as much to have heard that the Streets of the City of <hi>London</hi> had run down with Blood, as they did that the Houses were in Flames, the Blood of Hereticks would have been sweet to them, <hi>&amp;c.</hi> Remember what a Design they had in 1679. how the Nations ruin was plotted and contrived by them, and how in 1683 they endeavoured to lay their Brats at our doors, and what they did contrive and endeavour since hath been blasted and defeated: Ought we not then with the <hi>four and twenty Elders,</hi> Apoc. 11.16, 17. <hi>to fall upon our faces and say, We give thee thanks, O Lord God Almighty, which art, and wast, and art to come, because thou hast taken thy great power and hast reign<g ref="char:EOLhyphen"/>ed.</hi> What fears were there upon many
+<pb n="26" facs="tcp:45722:15"/> mens Spirits, when the Sword commissioned by God came into our Land, but the Lord who hath the hands and hearts of all in his hands, and <hi>turneth them which way he pleas<g ref="char:EOLhyphen"/>eth, as he doth the Rivers of waters,</hi> soon damped their Spirits, who had been at work to Subvert the Laws of our Land, nay, to Extirpate the Law of our God, and began to think that they were strong enough by their own, and the strength of Allies to effect it: But they did soon hide their Heads and creep into holes, and the Sword put up again into its Sheath. The year 1588 was termed <hi>mi<g ref="char:EOLhyphen"/>rabilis annus clade Papistarum,</hi> &amp;c. This present 1688 is no less a year of Won<g ref="char:EOLhyphen"/>ders; as the Bodies of many of them were made then to sink to the bottom of the Sea; so now did their hearts even sink within them; and as then there were Laws presently made for the preventing of <hi>Jesuits</hi> and <hi>Priests</hi> coming over into this Nation, <hi>&amp;c.</hi> So 'tis wished that some Laws may be further Enacted, that we
+<pb n="27" facs="tcp:45722:15"/> and our Posterities after us may be freed from the fears and dangers thereof. God having wrought for us <hi>such a Deliverance,</hi> as can scarce be parallel'd, as our Poste<g ref="char:EOLhyphen"/>rity will scarce believe, let none dare <hi>to join in affinity with the people of those abomi<g ref="char:EOLhyphen"/>nations,</hi> Ezra 9.13, 14. For as <hi>Benjamin</hi>'s Mess exceeded his Brethrens, so this pre<g ref="char:EOLhyphen"/>sent Mercy all our former Mercies.</p>
+            <p>When God begins thus to work in the pulling down of <hi>Antichrist</hi> that great Enemy of his Church, our Heads, Hearts should be at work to help forward that work which God hath begun; Oh pray, pray, that God would hasten the accom<g ref="char:EOLhyphen"/>plishment of those Promises and Prophecies that he hath made concerning the latter days; the Queen of <hi>Scots</hi> was heard to say sometimes, that she feared more <hi>John Knox</hi> Prayers, than an Army of ten thousand men. Oh double your Prayers, so your Praises, let your Mouths be filled there<g ref="char:EOLhyphen"/>with. Consider,</p>
+            <pb n="28" facs="tcp:45722:16"/>
+            <p>
+               <hi>Mot.</hi> 1. That the Praises of God's Church, as well as her Prayers, are terrible to her E<g ref="char:EOLhyphen"/>nemies. <hi>Psal.</hi> 8.2. <hi>Out of the mouth of Babes and Sucklings hast thou ordained strength, be<g ref="char:EOLhyphen"/>cause of the Enemies, that thou mightest still the Enemy and the Avenger,</hi> 2 Chron. 20.21. <hi>When they began to sing, and to praise, the Lord set Ambushments against the Children of</hi> Ammon, Moab, <hi>and Mount</hi> Seir, <hi>which were come against</hi> Judah, <hi>and they were smitten.</hi>
+            </p>
+            <p n="2">2. To give Thanks for the Beginnings of Mercies, is the ready way for to have God compleat our Mercies; though <hi>Babel</hi> be ne're so strong, God is able to effect it, <hi>Apoc.</hi> 18.8. <hi>Strong is the Lord who judgeth her:</hi> Be thank<g ref="char:EOLhyphen"/>ful therefore for the Beginnings of Mercy, for though at present it should be no bigger than the <hi>breadth of a man's hand,</hi> as the Cloud was which <hi>Elijah</hi>'s Servant saw, yet it may quickly irradiate the whole Heavens: God is not weary in doing good to a thankful people. But to conclude, Let it be your care to walk answerable to present Mercies. It's
+<pb n="29" facs="tcp:45722:16"/> better to live thanks than to give thanks: Walk according to that Rule of the Holy Scriptures; Is it not great Mercy that we have them, notwithstanding the many At<g ref="char:EOLhyphen"/>tempts of our Adversaries, to <hi>be a light to our paths, a lamp unto our feet?</hi> 'Tis a plain, per<g ref="char:EOLhyphen"/>fect, and an unerring Rule, this present Mer<g ref="char:EOLhyphen"/>cy should oblige us to live Scripture lives. 'Tis the great cheat the <hi>Pope of Rome</hi> hath put upon the World, that the Spirit of God is tyed to the Pummels of his Saddle, and therefore cannot err, but I am sure the Spi<g ref="char:EOLhyphen"/>rit of God sends us to a better guide, <hi>Isa.</hi> 8.20 <hi>To the Law and to the Testimony.</hi> 1 Joh. 4.1. Oh let this present Mercy oblige us to a Reformation and Union, lest it should End in a Curse and Desolation.</p>
+            <p>
+               <hi>David Pareus</hi> strongly asserted the Truth of God against its Adversaries, and yet was a great Studier and Promoter of the Churches peace, labouring that they which agreed in Fundamentals should not jarr in Matters of an inferiour Nature, and of a lower Ally.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
